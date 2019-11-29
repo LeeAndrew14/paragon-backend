@@ -1,0 +1,22 @@
+{
+  "user": {
+    "roles": {
+      "admin": "ADMIN",
+      "user": "USER"
+    },
+    "gender": {
+      "male": {
+        "id": 1,
+        "name": "Male"
+      },
+      "female": {
+        "id": 2,
+        "name": "Female"
+      },
+      "other": {
+        "id": 3,
+        "name": "Other"
+      }
+    }
+  }
+}
